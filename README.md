@@ -1,12 +1,7 @@
 ### What is "icey"
-###### "icey"是什么
-
-###### icey is a python package which is used to process LIDAR data.
-###### icey是一个完全开源的PYTHON包。用来对激光点云数据进行一些操作
-
+###### icey is a fully open-sourced python package which is used to operate LIDAR data.
 
 ### What does "icey" can do ?
-###### "icey"能做什么？
 
 ##### Working on this now...
 ###### 1. Get LAS file's header
