@@ -1,8 +1,8 @@
 #### What is "icey"
 ###### icey is a fully open-sourced python package which is used to operate LIDAR data.
-<br>
+
 #### What does "icey" can do ?
-<br>
+
 ###### Working on this now...
 ###### 1. Get LAS file's header
 ###### 2. Get LAS files' header and output the analysis result
