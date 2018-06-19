@@ -1,7 +1,7 @@
 ### What is "icey"
 ---
 ##### icey is a fully open-sourced python package which is used to operate LIDAR data.
-  <br />
+##
 ### What does "icey" can do ?
 ---
 ##### Working on this now...
